@@ -1,0 +1,13 @@
+
+mcsharpsquid:S11253"*Remove the unnecessary Boolean literal(s).(™÷İªJ$faf56d26-4049-49c2-8c72-151a50f69059
+mcsharpsquid:S3903"*Move 'GameManager' into a named namespace.(¬øõJ$2ec8359d-c3fe-4e3e-9510-bb6864f6c2e8
+kcsharpsquid:S2933"#Make 'spawnPointStatus' 'readonly'.(øĞæËúÿÿÿÿJ$f2e3e930-9abb-4d8c-9ec7-2df320c6577f
+‡csharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(«Û¬J$a93ceb86-3457-41bc-b1e2-31d4b8776747
+“csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(£ùªşùÿÿÿÿ8²èŞàê1J$9b5f52fd-81bd-4f20-bd60-97d857489162
+†csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(—êûQJ$eb64b75a-06c5-4ff2-939b-54cdf4a2f9d8
+‡csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(®ıÅôJ$b0c07b56-130a-421c-9748-7d369fe64294
+‡csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(œŒœJ$37f91011-fd9a-4ac1-ab8b-33626c2e7cb9
+Œcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ŠÁ‰êúÿÿÿÿJ$948b8398-3dff-41c0-a0b0-bfda09cc67cd
+pcsharpsquid:S2223"GChange the visibility of 'finalScore' or make it 'const' or 'readonly'.(£ùªşùÿÿÿÿ8øËààê1
+ycsharpsquid:S2696`"UMake the enclosing instance method 'static' or remove this set on the 'static' field.(“ÛÂë8ùËààê1
